@@ -1,7 +1,8 @@
 # 🌐 My IP Detail — Free IP Lookup & See Your Public Address - IPv4 & IPv6
 
-🔗 **Live Website:** https://www.myipdetail.com/
+🔗 **Live Website:** https://www.myipdetail.com
 
+🔗 **Live Website:** http://whatismyipdetail.com
 ---
 
 ## 🚀 Project Overview
